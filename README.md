@@ -175,9 +175,15 @@ _고철, 상단 메뉴 의견 주라._
 
 ## 주요 개발 단위
 ### 1. 기초적인 리액트 개발 방법 공부
+* https://reactjs.org
+
 ### 2. 기초적인 Draft.js 사용법 공부
 * https://github.com/nikgraf/awesome-draft-js
+* https://codepen.io/Kiwka/pen/YNYvyG
+
 ### 3. 기초적인 일렉트론 개발 방법 공부
+* https://electronjs.org
+
 ### 4. 편집기 컴포넌트 개발
 #### 컨텍스트 메뉴 컴포넌트 개발
 #### 교정 정보와 몇 개의 메뉴를 가진 팝업 윈도우 컴포넌트 개발
