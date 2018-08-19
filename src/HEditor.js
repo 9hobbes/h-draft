@@ -1,7 +1,7 @@
 import React from 'react';
 import {Editor, EditorState, RichUtils} from 'draft-js';
 
-import './h-editor.css';
+import './HEditor.css';
 
 class HEditor extends React.Component {
   constructor(props) {

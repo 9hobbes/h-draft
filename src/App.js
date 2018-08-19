@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import HEditor from './h-editor';
+import HEditor from './HEditor';
 
-import './app.css';
+import './App.css';
 
 class App extends Component {
   render() {
