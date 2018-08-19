@@ -81,6 +81,7 @@ class HEditor extends React.Component {
             handleKeyCommand={this.handleKeyCommand}
             onChange={this.onChange}
             onTab={this.onTab}
+            // placeholder="Tell a story..."
             ref="editor"
             spellCheck={true}
           />
