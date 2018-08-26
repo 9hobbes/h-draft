@@ -185,6 +185,7 @@ _고철, 상단 메뉴 의견 주라._
 ### 2. 기초적인 Draft.js 사용법 공부
 * https://github.com/nikgraf/awesome-draft-js
 * https://codepen.io/Kiwka/pen/YNYvyG
+* http://frontendgirl.com/8-playgrounds-for-examples-from-official-draft-js-repository-v-0-10-0/
 
 ### 3. 기초적인 일렉트론 개발 방법 공부
 * https://electronjs.org
