@@ -199,6 +199,7 @@ VS Code의 lint 플러그인과 비슷합니다.
 ### 2. 기초적인 Draft.js 사용법 공부
 * https://github.com/nikgraf/awesome-draft-js
 * https://codepen.io/Kiwka/pen/YNYvyG
+* http://frontendgirl.com/8-playgrounds-for-examples-from-official-draft-js-repository-v-0-10-0/
 
 ### 3. 기초적인 일렉트론 개발 방법 공부
 * https://electronjs.org
@@ -228,6 +229,8 @@ _한스펠 호출과 로컬 DB 관련 기능이 구현이 될 수 있을거라�
 _인터페이스(API 명세?)만 정의하고 기능별로 맡아서 할 수 있을거 같고_
 
 _TBL_
+
+test
 
 ## 설계
 
